@@ -56,7 +56,7 @@
     <td width="25%" align="center">
       <img src="./image/정필교.png" alt="정필교" width="125" height="125" /><br/>
       <strong>정필교 / BE</strong><br/>
-      <sub><span style="color:gray">Spring Security 인증·인가<br/>Web Socket·Chatbot</span></sub>
+      <sub><span style="color:gray">Spring Security <br/>Web Socket·Chatbot</span></sub>
     </td>
   </tr>
 </table>
