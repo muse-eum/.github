@@ -26,7 +26,7 @@
     <td width="25%" align="center">
       <img src="./image/박지현.png" alt="박지현" width="125" height="125" /><br/>
       <strong>박지현 / FE</strong><br/>
-      <sub><span style="color:gray">팀장<br/>아카이브 화면</span></sub>
+      <sub><span style="color:gray">팀장<br/>아카이브 화면·디자인</span></sub>
     </td>
     <td width="25%" align="center">
       <img src="./image/김동규.png" alt="김동규" width="125" height="125" /><br/>
@@ -46,7 +46,7 @@
     <td width="25%" align="center">
       <img src="./image/김나경.png" alt="김나경" width="125" height="125" /><br/>
       <strong>김나경 / BE</strong><br/>
-      <sub><span style="color:gray">CI·CD 구축<br/>아카이브·행사·대본</span></sub>
+      <sub><span style="color:gray">인프라 / CI·CD 파이프라인 구축<br/>아카이브·행사·대본·STT</span></sub>
     </td>
     <td width="25%" align="center">
       <img src="./image/박신영.png" alt="박신영" width="125" height="125" /><br/>
